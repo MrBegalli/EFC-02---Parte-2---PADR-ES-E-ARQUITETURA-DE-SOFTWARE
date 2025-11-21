@@ -48,3 +48,4 @@ O arquivo principal que executa as demonstrações de todos os padrões é o `ma
 
 ```bash
 python main.py
+3.  **Observação:** Pode-se executar cada padrão separadamente.
