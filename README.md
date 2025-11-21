@@ -44,8 +44,8 @@ O projeto é baseado em bibliotecas padrão e não requer dependências externas
 O arquivo principal que executa as demonstrações de todos os padrões é o `main.py`.
 
 1.  **Organização dos Arquivos:** Certifique-se de que todos os arquivos (incluindo `main.py`, `singleton_catalog.py`, `builder_product.py`, `proxy_product_access.py`, e `visitor_pricing_rules.py`) estejam no **mesmo diretório**.
-2.  **Execução:** Abra o terminal (Prompt de Comando, PowerShell ou Terminal) no diretório do projeto e execute o comando:
+2.  **Observação:** Pode-se executar cada padrão separadamente.
+3.  **Execução:** Abra o terminal (Prompt de Comando, PowerShell ou Terminal) no diretório do projeto e execute o comando:
 
 ```bash
 python main.py
-3.  **Observação:** Pode-se executar cada padrão separadamente.
